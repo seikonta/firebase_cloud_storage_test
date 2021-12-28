@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "725671662358",
+    "project_id": "fir-cloud-storage-test-aafdf",
+    "storage_bucket": "fir-cloud-storage-test-aafdf.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:725671662358:android:e728d5443f121d7c16f637",
+        "android_client_info": {
+          "package_name": "app.takasu.kon.firebasecloudstoragetest"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "725671662358-lkms5c97tl7mn7at6d4vr73g6ud9t8dt.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBVaNsLyGNH9uGHGaqHQdYFeckTW1nJCe0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "725671662358-lkms5c97tl7mn7at6d4vr73g6ud9t8dt.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
