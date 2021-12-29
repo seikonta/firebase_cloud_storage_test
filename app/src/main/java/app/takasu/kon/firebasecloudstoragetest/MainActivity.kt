@@ -9,7 +9,7 @@ import com.google.firebase.ktx.Firebase
 import com.google.firebase.storage.ktx.storage
 
 class MainActivity : AppCompatActivity() {
-    var storage = Firebase.storage
+    var storage = Firebase.storage("gs://fir-cloud-storage-test-aafdf.appspot.com")
 
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
